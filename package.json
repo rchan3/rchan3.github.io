@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rchan3.github.io/Rachel Chan",
+  "homepage": "https://rchan3.github.io/rchan3.github.io",
   "name": "personal_website_1.1",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +15,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

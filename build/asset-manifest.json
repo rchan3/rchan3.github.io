@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Rachel%20Chan/static/css/main.9cb877d5.chunk.css",
-    "main.js": "/Rachel%20Chan/static/js/main.a41dd729.chunk.js",
-    "main.js.map": "/Rachel%20Chan/static/js/main.a41dd729.chunk.js.map",
-    "runtime-main.js": "/Rachel%20Chan/static/js/runtime-main.ff4a4246.js",
-    "runtime-main.js.map": "/Rachel%20Chan/static/js/runtime-main.ff4a4246.js.map",
-    "static/js/2.5a521968.chunk.js": "/Rachel%20Chan/static/js/2.5a521968.chunk.js",
-    "static/js/2.5a521968.chunk.js.map": "/Rachel%20Chan/static/js/2.5a521968.chunk.js.map",
-    "static/js/3.0dcb0e8f.chunk.js": "/Rachel%20Chan/static/js/3.0dcb0e8f.chunk.js",
-    "static/js/3.0dcb0e8f.chunk.js.map": "/Rachel%20Chan/static/js/3.0dcb0e8f.chunk.js.map",
-    "index.html": "/Rachel%20Chan/index.html",
-    "static/css/main.9cb877d5.chunk.css.map": "/Rachel%20Chan/static/css/main.9cb877d5.chunk.css.map",
-    "static/js/2.5a521968.chunk.js.LICENSE.txt": "/Rachel%20Chan/static/js/2.5a521968.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Rachel%20Chan/static/media/logo.6ce24c58.svg"
+    "main.css": "/rchan3.github.io/static/css/main.9cb877d5.chunk.css",
+    "main.js": "/rchan3.github.io/static/js/main.a41dd729.chunk.js",
+    "main.js.map": "/rchan3.github.io/static/js/main.a41dd729.chunk.js.map",
+    "runtime-main.js": "/rchan3.github.io/static/js/runtime-main.0187be02.js",
+    "runtime-main.js.map": "/rchan3.github.io/static/js/runtime-main.0187be02.js.map",
+    "static/js/2.5a521968.chunk.js": "/rchan3.github.io/static/js/2.5a521968.chunk.js",
+    "static/js/2.5a521968.chunk.js.map": "/rchan3.github.io/static/js/2.5a521968.chunk.js.map",
+    "static/js/3.0dcb0e8f.chunk.js": "/rchan3.github.io/static/js/3.0dcb0e8f.chunk.js",
+    "static/js/3.0dcb0e8f.chunk.js.map": "/rchan3.github.io/static/js/3.0dcb0e8f.chunk.js.map",
+    "index.html": "/rchan3.github.io/index.html",
+    "static/css/main.9cb877d5.chunk.css.map": "/rchan3.github.io/static/css/main.9cb877d5.chunk.css.map",
+    "static/js/2.5a521968.chunk.js.LICENSE.txt": "/rchan3.github.io/static/js/2.5a521968.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rchan3.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff4a4246.js",
+    "static/js/runtime-main.0187be02.js",
     "static/js/2.5a521968.chunk.js",
     "static/css/main.9cb877d5.chunk.css",
     "static/js/main.a41dd729.chunk.js"
